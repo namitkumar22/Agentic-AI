@@ -1,0 +1,11 @@
+langchain
+langchain_groq
+langchain_google_genai
+langchain_openai
+langchain_tavily
+langchain_mcp_adapters
+langgraph
+langsmith
+mcp
+ipykernel
+python-dotenv
