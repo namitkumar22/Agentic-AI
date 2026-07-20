@@ -1,3 +1,5 @@
+# Libraries for LangChain and LangGraph
+
 langchain
 langchain_groq
 langchain_google_genai
@@ -9,3 +11,14 @@ langsmith
 mcp
 ipykernel
 python-dotenv
+
+# Libraries for RAG
+
+langchain
+langchain_core
+langchain_community
+langchain_unstructured
+pypdf
+pymupdf
+unstructured[all-docs] # Dependecy for UnstructuredFileLoader
+unstructured-inference # Dependecy for UnstructuredFileLoader
