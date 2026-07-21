@@ -22,3 +22,10 @@ pypdf
 pymupdf
 unstructured[all-docs] # Dependecy for UnstructuredFileLoader
 unstructured-inference # Dependecy for UnstructuredFileLoader
+
+sentence-transformers # embeddings
+faiss-cpu # vector storage local
+langchain_huggingface # Wrapper which internally uses sentence-transformers
+
+langchain_qdrant # For Cloud Vector Storage DB
+qdrant_client # Qdrant Client
