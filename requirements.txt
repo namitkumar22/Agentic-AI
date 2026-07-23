@@ -29,3 +29,11 @@ langchain_huggingface # Wrapper which internally uses sentence-transformers
 
 langchain_qdrant # For Cloud Vector Storage DB
 qdrant_client # Qdrant Client
+
+
+
+# Libraries for Deep Agents
+deepagents # Library for building Deep Agents that can tackle multi step complex tasks, it is built on LangGraph.
+langchain
+langchain_groq
+langchain_tavily
